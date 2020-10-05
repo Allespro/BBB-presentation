@@ -1,4 +1,3 @@
- #https://vks.mtuci.ru/bigbluebutton/presentation/ab6cc0297149c9405a484f5f9ffbaa832aba4b6a-1601532974113/ab6cc0297149c9405a484f5f9ffbaa832aba4b6a-1601532974113/1ba6008a86a183412f417e1529b5a222d98cf53c-1601533016025/svg/
 import cherrypy, requests, random, os, cairosvg, img2pdf
 from cherrypy import tools
 from PIL import Image
