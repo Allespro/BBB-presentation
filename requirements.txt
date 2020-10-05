@@ -1,0 +1,5 @@
+cherrypy
+cairosvg
+img2pdf
+Pillow
+requests
